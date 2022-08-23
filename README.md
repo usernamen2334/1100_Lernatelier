@@ -4,7 +4,7 @@ Marku
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.2022     | 0.0.1   | projekt-Dokumentation gemacht |
+| 23.08.2022     | 0.0.1   | Projekt-Dokumentation gemacht |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -26,8 +26,8 @@ In diesem Projekt geht es darum einen eigenen Numberguesser zu programieren
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Eine zufällige Zahl von 1-100 wird generiert  | Eingabe einer Zahl 1-100  | Die Eingabe ist eine Zahl 1-100 |
-| 1.2  |              |         |                   |
+| 1.1  | Eine zufällige Zahl von 1-100 wird generiert | Eingabe einer Zahl 1-100  | Die Eingabe ist eine Zahl 1-100 |
+| 1.2  | Die eingegeben Zahl wird überprüft | Zahl wird kontroliert feedback wird gegeben | Richtig/höher/tiefer |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 

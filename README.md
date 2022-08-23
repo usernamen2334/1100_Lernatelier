@@ -20,16 +20,14 @@ In diesem Projekt geht es darum einen eigenen Numberguesser zu programieren
 | 1    |  muss  |   funktional   | Als Benutzer möchte ich informiert werden ob meine Zahl richtig/falsch ist, damit ich weiss ob ich eine neue Zahl eintippen muss |
 | 2    |  muss  |   funktional   | Als Benutzer möchte ich eine Nachricht erhalten ob die richtige Zahl höher oder Tiefer ist, damit ich eiene Idee habe welche Zahl ich als nächstes eintippen möchte |
 | 3    |  muss  |   funktional   | Als Programierer teste ich, ob überhaupt eine Zahl eingetippt wurde damit man wieder eine Zahl verlangt |
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Eine zufällige Zahl von 1-100 wird generiert | Eingabe einer Zahl 1-100  | Die Eingabe ist eine Zahl 1-100 |
-| 1.2  | Die eingegeben Zahl wird überprüft | Zahl wird kontroliert feedback wird gegeben | Richtig/höher/tiefer |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+|  1.1  | Eine zufällige Zahl von 1-100 wird generiert | Eingabe einer Zahl 1-100  | Die Eingabe ist eine Zahl 1-100 |
+|  2.1  | Die eingegeben Zahl wird überprüft | Zahl wird kontroliert feedback wird gegeben | Richtig/höher/tiefer |
+|  3.1  | Austesten ob die Eingabe eine Zahl ist | Nein | Sie müssen eine Zahl eintippen|
 
 ### 1.4 Diagramme
 
@@ -39,12 +37,10 @@ In diesem Projekt geht es darum einen eigenen Numberguesser zu programieren
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  | 13.09.2022 | Marku | Heraus finden wie man ein Zufallsgenerator für Zahlen erstellt | 1 |
 | ...  |       |           |              |               |
 
 Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 

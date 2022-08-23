@@ -38,11 +38,10 @@ In diesem Projekt geht es darum einen eigenen Numberguesser zu programieren
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 13.09.2022 | Marku | Heraus finden wie man ein Zufallsgenerator für Zahlen erstellt | 1 |
-| ...  |       |           |              |               |
+| 1.B  | 13.09.2022 | Marku | Einen Zufallsgenerator für Zahlen erstellen | 2 |
+| 2.A  | 13.09.2022 | Marku | Heraus finden wie man einen Scaner für falsch/richtig erstellen kann |
 
 Total: 
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 

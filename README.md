@@ -4,7 +4,7 @@ Marku
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 23.08.2022     | 0.0.1   | projekt-Dokumentation gemacht |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -17,17 +17,17 @@ In diesem Projekt geht es darum einen eigenen Numberguesser zu programieren
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss  |   funktional   | Als Benutzer möchte ich eine Nachricht erhalten ob meine Zahl richtig/falsch ist |
-| 2    |  muss  |   funktional   | Als Benutzer möchte ich eine Nachricht erhalten ob die richtige Zahl höher oder Tiefer ist |
-| 3    |  muss  |   funktional   | Als Programierer teste ich, ob überhaupt eine Zahl eingetippt wurde |
+| 1    |  muss  |   funktional   | Als Benutzer möchte ich informiert werden ob meine Zahl richtig/falsch ist, damit ich weiss ob ich eine neue Zahl eintippen muss |
+| 2    |  muss  |   funktional   | Als Benutzer möchte ich eine Nachricht erhalten ob die richtige Zahl höher oder Tiefer ist, damit ich eiene Idee habe welche Zahl ich als nächstes eintippen möchte |
+| 3    |  muss  |   funktional   | Als Programierer teste ich, ob überhaupt eine Zahl eingetippt wurde damit man wieder eine Zahl verlangt |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Eine zufällige Zahl von 1-100 wird generiert  | Eingabe einer Zahl 1-100  | Die Eingabe ist eine Zahl 1-100 |
+| 1.2  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 

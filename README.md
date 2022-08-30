@@ -39,7 +39,7 @@ In diesem Projekt geht es darum einen eigenen Numberguesser zu programieren
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 13.09.2022 | Marku | Heraus finden wie man ein Zufallsgenerator für Zahlen erstellt | 1 |
 | 1.B  | 13.09.2022 | Marku | Einen Zufallsgenerator für Zahlen erstellen | 2 |
-| 2.A  | 13.09.2022 | Marku | Heraus finden wie man einen Scaner für falsch/richtig erstellen kann |
+| 2.A  | 13.09.2022 | Marku | Heraus finden wie man einen Scaner für falsch/richtig erstellen kann | 2 |
 
 Total: 
 
@@ -51,9 +51,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 1.A  | 30.08.2022 | Marku |  1           |  1/5              |
+| 1.B  | 30.08.2022 | Marku |  2           |  1/5              |
+| 2.A  | 30.08.2022 | Marku |  2           |  1/3
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren

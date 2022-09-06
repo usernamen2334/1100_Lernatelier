@@ -17,17 +17,18 @@ In diesem Projekt geht es darum einen eigenen Numberguesser zu programieren
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss  |   funktional   | Als Benutzer möchte ich informiert werden ob meine Zahl richtig/falsch ist, damit ich weiss ob ich eine neue Zahl eintippen muss |
-| 2    |  muss  |   funktional   | Als Benutzer möchte ich eine Nachricht erhalten ob die richtige Zahl höher oder Tiefer ist, damit ich eiene Idee habe welche Zahl ich als nächstes eintippen möchte |
-| 3    |  muss  |   funktional   | Als Programierer teste ich, ob überhaupt eine Zahl eingetippt wurde damit man wieder eine Zahl verlangt |
-
+| 1    |  muss  |   funktional   | Als Benutzer möchte ich informiert werden ob meine Zahl richtig/falsch ist |
+| 2    |  muss  |   funktional   | Als Benutzer möchte ich eine chance bekommen nochmals zu spielen, wenn meine Zahl falsch ist |
+| 3    |  muss  |   funktional   | Als Benutzer möchte ich eine Nachricht erhalten ob die generierte Zufallszahl höher oder Tiefer ist, damit ich eiene Idee habe welche Zahl ich als nächstes eintippen möchte |
+| 4    |  muss  |   funktional   | Als Benutzer möchte ich nachdem ich die Zufallszahl erraten habe informiert werden, dass ich gewonnen habe |
+| 5    |  muss  |   funktional   | Als Benutzer möchte ich nachdem ich gewonnen habe gefragt werden, ob ich nochmals eine Runde spielen möchte |
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 |  1.1  | Eine zufällige Zahl von 1-100 wird generiert | Eingabe einer Zahl 1-100  | Die Eingabe ist eine Zahl 1-100 |
 |  2.1  | Die eingegeben Zahl wird überprüft | Zahl wird kontroliert feedback wird gegeben | Richtig/höher/tiefer |
-|  3.1  | Austesten ob die Eingabe eine Zahl ist | Nein | Sie müssen eine Zahl eintippen|
+|  3.1  | Austesten ob die Eingabe eine Zahl ist | Nein | Sie müssen eine Zahl eintippen |
 
 ### 1.4 Diagramme
 

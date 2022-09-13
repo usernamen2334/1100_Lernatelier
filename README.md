@@ -87,10 +87,7 @@ Das Programm läuft einwandfrei.
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+| I    | Wenn man gefragt wird ob man nochmals spielen möchte und man nicht Ja eingibt stürzt es ab | "hjxghdsgjhds" | ungültige Eiengabe | Das Spiel wird beendet |
 
 ## 6 Auswerten
 

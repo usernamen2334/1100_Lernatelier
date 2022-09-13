@@ -5,8 +5,9 @@ Marku
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022     | 0.0.1   | Projekt-Dokumentation gemacht |
-| 30.08.2022     | 0.0.2   | Programmiert                  |
-| 06.09.2022     | 0.0.3   | Programmiert                  |
+| 30.08.2022     | 0.0.2   | Angefangen zu realisieren und programmieren |
+| 06.09.2022     | 0.0.3   | Projekt fertig programmiert |
+| 13.09.2022     | 0.0.4   | Abgabe Projekt |
 ## 1 Informieren 
 
 ### 1.1 Ihr Projekt

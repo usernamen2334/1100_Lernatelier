@@ -92,4 +92,4 @@ Das Programm läuft einwandfrei.
 
 ## 6 Auswerten
 
-[Hier ist mein Lernbericht](Lernbericht-Numberguesser)
+[Hier ist mein Lernbericht](Lernbericht-Numberguesser.md)

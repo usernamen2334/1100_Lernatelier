@@ -5,9 +5,8 @@ Marku
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022     | 0.0.1   | Projekt-Dokumentation gemacht |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
-
+| 30.08.2022     | 0.0.2   | Programmiert                  |
+| 06.09.2022     | 0.0.3   | Programmiert                  |
 ## 1 Informieren 
 
 ### 1.1 Ihr Projekt
@@ -29,7 +28,7 @@ In diesem Projekt geht es darum, einen eigenen Numberguesser zu programmieren
 | ---- | ------------ | ------- | ----------------- |
 |  1.1  | Das Programm gibt dir an, ob deine Zahl richtig/falsch ist| Zahl eingeben und enter  | Die Eingabe ist falsch/richtig |
 |  2.1  | Falls falsch gibt dir Programm an, ob Zufallszahl höher/tiefer ist | enter | Die Zufallszahl ist tiefer |
-|  3.1  | Programm startet neu und Zufallszahl bleibt gleich | 50 | Geben sie eine Zahl 1-100 ein |
+|  3.1  | Programm läst dich eine neue Zahl eingeben und Zufallszahl bleibt gleich | 50 | Geben sie eine Zahl 1-100 ein |
 |  4.1  | Die richtige Zufallszahl ist gefunden worden | enter | sie haben gewonnen |
 |  5.1  | Programm fragt ab, ob man nochmals spielen möchte | enter | möchten sie nochmals spielen? |
 |  6.1  | Programm generiert neue Zufallszahl und fragt Benutzer eine neue Eingabe zu machen | enter | Geben sie eine Zahl 1-100 ein  |
@@ -50,25 +49,23 @@ In diesem Projekt geht es darum, einen eigenen Numberguesser zu programmieren
 | 5.A  | 06.09.2022 | Marku | Das Programm sollte den Benutzer fragen, ob er nochmals spielen möchte | 1/5 A |
 | 6.A  | 06.09.2022 | Marku | Das Programm sollte neu gestartet werden | 3 A |
 
-Total: 
+Total: 11 1/5 A
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe bemerkt, dass ich Arbeitspakete unter und überschäzt habe und habe mich entschieden einfach zu programmieren und zu schauen wie weit ich halt komme.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 06.09.2022 | Marku | 1A | 1/5 |
-| 1.B  | 06.09.2022 | Marku | 2A | 1/5 |
-| 2.A  | 06.09.2022 | Marku | 1A | 1/3 |
-| 3.A  | 06.09.2022 | Marku | 2A | |
-| 4.A  | 06.09.2022 | Marku | 2A | |
-| 5.A  | 06.09.2022 | Marku | 1/5A | |
-| 6.A  | 06.09.2022 | Marku | 3A | |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1.A  | 06.09.2022 | Marku | 1A | 1/5 A |
+| 1.B  | 06.09.2022 | Marku | 2A | 1/5 A |
+| 2.A  | 06.09.2022 | Marku | 1A | 2 A |
+| 3.A  | 06.09.2022 | Marku | 2A | 3A |
+| 4.A  | 06.09.2022 | Marku | 2A | 2A |
+| 5.A  | 06.09.2022 | Marku | 1/5A | 2A |
+| 6.A  | 06.09.2022 | Marku | 3A | 2A |
 
 ## 5 Kontrollieren
 
@@ -76,10 +73,15 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  13.09.2022  | OK |  Marku  |
+| 2.1  |  13.09.2022  | OK |  Marku  |
+| 3.1  |  13.09.2022  | OK |  Marku  |
+| 4.1  |  13.09.2022  | OK |  Marku  |
+| 5.1  |  13.09.2022  | OK |  Marku  |
+| 6.1  |  13.09.2022  | OK |  Marku  |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+###Fazit
+Das Programm läuft einwandfrei.
 
 ### 5.2 Exploratives Testen
 
